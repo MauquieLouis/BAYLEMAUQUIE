@@ -14,6 +14,9 @@
                <br /><br /><h1>Site de Louys & Rémi!</h1>
             </div>
         </header>
+        <div class="pubgauche">
+            bonjour
+        </div>
         <nav>
 				<ul id="menu" class="menu">
 		    	    <li>
