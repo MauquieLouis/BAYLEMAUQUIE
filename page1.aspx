@@ -15,15 +15,24 @@
             </div>
         </header>
         <nav>
-				<p id="menu" class="menu">
-					MENU :	
-				</p>			
-					<ul>
-						<li><a href="page1.aspx">Station<br /><br /></a></li>
-						<li><a href="page1.aspx">??<br /><br /></a></li>
-						<li><a href="page1.aspx">??<br /><br /></a></li>
-						<li><a href="page1.aspx">??<br /><br /></a></li>
-					</ul>
+				<ul id="menu" class="menu">
+		    	    <li>
+			    		<a href="#">station</a>
+				    	<ul>
+							<li><a href="#">A105-PROF</a></li>
+							<li><a href="#">A210-PROF</a></li>
+							<li><a href="#">A211-PROF</a></li>
+							<li><a href="#">B103-PTOF </a></li>
+							<li><a href="#">B203-PROF2</a></li>
+							<li><a href="#">C04-PROF</a></li>
+							<li><a href="#">C09-PROF</a></li>
+							<li><a href="#">C100-PROF</a></li>
+							<li><a href="#">C104-P01</a></li>
+							<li><a href="#">C107-P02</a></li>
+							
+					    </ul>
+			        </li>
+	            </ul>
 			</nav>
         <%--<table>
             <tr>
@@ -32,7 +41,6 @@
                 <td>.</td>
             </tr>
         </table>     --%>
-   
     </form>
     J'écris en langage C maintenant. 
     printf("Bonjour");
