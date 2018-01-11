@@ -15,10 +15,10 @@
             </div>
         </header>
         <div class="pubgauche">
-            bonjour
+            <a href="https://www.mcdonalds.fr/">McDonald's sponsor</a>
         </div>
          <div class="pubdroite">
-            bonjour
+            <a href="https://www.mcdonalds.fr/"></a>
         </div>
         <nav>
 				<ul id="menu" class="menu">
