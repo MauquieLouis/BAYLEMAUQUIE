@@ -17,22 +17,24 @@ header
 
 body
 {
-	border: 0px yellow dashed;
+	border: 1px yellow dashed;
 	background: rgba(220,220,220,1);
     /*background-image:url("aop.jpg");*/
     background-size:100%;
     background-repeat:no-repeat;
 
 	text-align: left;
-	width: 1530px;
-	margin-left: auto;
+	width: 1500px;
+	/*margin-left: auto;*/
 	margin-right: auto;
 }
 nav
 {
-	border: 0px grey dashed;
+   
+	border: 5px black dashed;
 	float: left;
-	margin-left: auto;
+	/*margin-left: auto;*/
+    margin-left:195px;
 	margin-right: auto;
 	width: 300px; 	
 	/*background-color: rgba(235, 235, 235, 1);*/
@@ -42,7 +44,6 @@ nav
 
 .menu
 {
-	margin-left: 5%;
 	font-weight: bold;
 	font-size: 30px;
 	color: red;	
@@ -62,6 +63,7 @@ p
 {
 	color: #ffffff;
 	background: #000000;
+
 }
 /*#menu li:hover ul ul, #menu li.sfhover ul ul 
 {
@@ -89,14 +91,26 @@ p
 
 .pubgauche
 {
-    /*border: 2px grey dashed;*/
-	left: 0px;
+    border: 2px grey dashed;
+	float:left;
     top: 30px;
-	height: 300px;
+	height:100%;
+	width: 195px; 	
+    position:absolute;
+    background-image:url("MCDAU.jpg");
+    background-repeat:no-repeat;
+}
+.pubdroite
+{
+    border: 2px grey dashed;
+	float:right;
+    top: 30px;
+	height:100%;
 	width: 195px; 	
 	/*background-color: rgba(235, 235, 235, 1);*/
     background-color:blue;
     position:absolute;
+    margin-left:1500px; /*1300 pixel - 195px*/
 }
 
 

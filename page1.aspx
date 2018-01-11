@@ -17,6 +17,9 @@
         <div class="pubgauche">
             bonjour
         </div>
+         <div class="pubdroite">
+            bonjour
+        </div>
         <nav>
 				<ul id="menu" class="menu">
 		    	    <li>
