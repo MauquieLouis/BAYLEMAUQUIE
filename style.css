@@ -17,7 +17,7 @@ header
 
 body
 {
-	border: 1px yellow dashed;
+	/*border: 1px yellow dashed;*/
 	background: rgba(220,220,220,1);
     /*background-image:url("aop.jpg");*/
     background-size:100%;
@@ -31,7 +31,7 @@ body
 nav
 {
    
-	border: 5px black dashed;
+	/*border: 5px black dashed;*/
 	float: left;
 	/*margin-left: auto;*/
     margin-left:195px;
@@ -58,7 +58,7 @@ p
 {
     color: blue;
 }
-/**/
+
 #menu a:hover
 {
 	color: #ffffff;
@@ -85,19 +85,19 @@ p
 
 #menu li ul li
 {
-	border-top : 20px solid grey;
+	/*border-top : 20px solid grey;*/
 
 }
 
 .pubgauche
 {
-    border: 2px grey dashed;
+    /*border: 2px grey dashed;*/
 	float:left;
     top: 30px;
 	height:100%;
 	width: 195px; 	
     position:absolute;
-    background-image:url("mac.png");
+    /*background-image:url("mac.png");*/
     background-repeat:no-repeat;
     background-size:100%;
     background-color:#004413;
@@ -106,12 +106,12 @@ p
 }
 .pubdroite
 {
-    border: 2px grey dashed;
+    /*border: 2px grey dashed;*/
 	float:right;
     top: 30px;
 	height:100%;
 	width: 195px; 	
-	background-image:url("MCDAU.jpg");
+	/*background-image:url("mac.png");*/
     background-position-x:50%;
     background-size:1000px;
     background-color:#004413;
